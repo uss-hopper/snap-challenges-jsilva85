@@ -1,4 +1,4 @@
-ul {
+.my-list {
     display: flex;
     padding: 5;
     margin: 10;
@@ -8,24 +8,84 @@ ul {
 
 }
 
-li {
+.my-item1 {
     background: tomato;
     width: 100px;
     height:100px;
     margin:auto;
-li.flex-container {
-    display:flex;
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
     flex-direction: row;
-    delx-wrap: wrap;
+    flex-wrap: wrap;
     flex-flow: wrap;
     flex-flow: row wrap;
     justify-content: space-around;
-
 }
 
-line-height: 150px;
-color: white;
-font-weight: bold;
-font-size: 3em;
-text-align: center;
+.my-item2 {
+    background: tomato;
+    width: 100px;
+    height:100px;
+    margin:auto;
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
 }
+.my-item3 {
+    background: tomato;
+    width: 100px;
+    height:100px;
+    margin:auto;
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+}
+.my-item4 {
+    background: tomato;
+    width: 100px;
+    height:100px;
+    margin:auto;
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+}
+.my-item5 {
+    background: tomato;
+    width: 100px;
+    height:100px;
+    margin:auto;
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+}
+.my-item6 {
+    background: tomato;
+    width: 100px;
+    height:100px;
+    margin:auto;
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+}
+
+
+
+
+
