@@ -1,91 +1,20 @@
-.my-list {
-    display: flex;
-    padding: 5;
-    margin: 10;
+ul {
+    padding: 0;
+    margin: 0;
     list-style: none;
-    height: 150px;
-    border: 0px;
-
 }
 
-.my-item1 {
+li {
     background: tomato;
-    width: 100px;
-    height:100px;
-    margin:auto;
+
     line-height: 150px;
     color: white;
     font-weight: bold;
     font-size: 3em;
     text-align: center;
 }
-
-.flex-container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    flex-flow: wrap;
-    flex-flow: row wrap;
-    justify-content: space-around;
-}
-
-.my-item2 {
-    background: tomato;
-    width: 100px;
-    height:100px;
-    margin:auto;
-    line-height: 150px;
-    color: white;
-    font-weight: bold;
-    font-size: 3em;
-    text-align: center;
-}
-.my-item3 {
-    background: tomato;
-    width: 100px;
-    height:100px;
-    margin:auto;
-    line-height: 150px;
-    color: white;
-    font-weight: bold;
-    font-size: 3em;
-    text-align: center;
-}
-.my-item4 {
-    background: tomato;
-    width: 100px;
-    height:100px;
-    margin:auto;
-    line-height: 150px;
-    color: white;
-    font-weight: bold;
-    font-size: 3em;
-    text-align: center;
-}
-.my-item5 {
-    background: tomato;
-    width: 100px;
-    height:100px;
-    margin:auto;
-    line-height: 150px;
-    color: white;
-    font-weight: bold;
-    font-size: 3em;
-    text-align: center;
-}
-.my-item6 {
-    background: tomato;
-    width: 100px;
-    height:100px;
-    margin:auto;
-    line-height: 150px;
-    color: white;
-    font-weight: bold;
-    font-size: 3em;
-    text-align: center;
-}
-
-
-
-
-
+  padding: 0;
+margin : 0;
+display :flex;
+flex-flow: row wrap;
+justify0contenet
